@@ -1,5 +1,5 @@
 The Project describe sto have two parts available 
-1.Drive Bot
+1.My Bot
 
 Here the objective is to define a robot with proper definitions for its body and to include two important sensors lidar(Hukoyo) and Camera sensor.
 The robot has to placed in the build my world Created from the repository and has to drive upon command from teleop keyboard command.
